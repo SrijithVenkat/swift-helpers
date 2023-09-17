@@ -49,7 +49,7 @@ enum GameType : String, CaseIterable {
     case outdoor_cycle = "Cycling"
     case pool_swim = "Swimming"
     case strengthtraining_traditional  = "Weight lifting"
-    case none = "NONE"
+    case none = "Please Select an Option"
     
     var icon_string : String
     {
